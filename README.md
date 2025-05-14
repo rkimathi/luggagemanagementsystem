@@ -1,9 +1,9 @@
 luggage-storage-db/
-├── database/
-│   └── luggage_storage.sql (your complete SQL file)
-├── docs/
-│   └── ERD.png (or ERD.pdf)
-└── README.md
+ - ├── database/
+ - │   └── luggage_storage.sql (your complete SQL file)
+ - ├── docs/
+ - │   └── ERD.png (or ERD.pdf)
+ - └── README.md
 
 
 # Temporary Luggage Storage Database System
