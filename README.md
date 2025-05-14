@@ -1,13 +1,12 @@
-luggage-storage-db/
- - ├── database/
- - │   └── luggage_storage.sql (your complete SQL file)
- - ├── docs/
- - │   └── ERD.png (or ERD.pdf)
- - └── README.md
-
-
 # Temporary Luggage Storage Database System
-A Database for a Temporary Luggage Storage Management System. The system is to manage a temporary storage of luggage in Nairobi City where 
+A Database for a Temporary Luggage Storage Management System. The system is to manage a temporary storage of luggage in Nairobi City where people with errands within town can have their luggages stored for a short duration.
+
+luggage-storage-db/
+  ├── database/
+  │   └── luggage_storage.sql (your complete SQL file)
+  ├── docs/
+  │   └── ERD.png (or ERD.pdf)
+  └── README.md
 
 ## 📖 Description
 A complete MySQL database solution for temporary luggage storage services. This system manages:
