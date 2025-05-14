@@ -5,6 +5,7 @@ luggage-storage-db/
 │   └── ERD.png (or ERD.pdf)
 └── README.md
 
+
 # Temporary Luggage Storage Database System
 A Database for a Temporary Luggage Storage Management System. The system is to manage a temporary storage of luggage in Nairobi City where 
 
